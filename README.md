@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shubham Devji Rasam</h1>
 <h3 align="center">Aspiring Full Stack Developer from India</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shubhamrasam" alt="shubhamrasam" /></a> </p>
 
 - 🌱 I’m currently learning **JAVA**
 
