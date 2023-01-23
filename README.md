@@ -24,7 +24,7 @@
 
 <hr></hr>
 <h3>💻 Projects: </h3>
-<h4>🔹 <a href="https://tour-advisor12.netlify.app/index.html">TourAdvisor</a></h4>
+<h4>🔸 <a href="https://tour-advisor12.netlify.app/index.html">TourAdvisor</a></h4>
 <p>Clone of <b>TripAdvisor</b>, the world's largest travel guidance platform<p>
 <ul>
    <li>Individual Project</li>
@@ -32,7 +32,7 @@
    <li>Tech Stack Used: HTML5, CSS, JavaScript</li>
 </ul>
 
-<h4>🔹 <a href="https://stepup-12.netlify.app/">Step Up</a></h4>
+<h4>🔸  <a href="https://stepup-12.netlify.app/">Step Up</a></h4>
 <p>Clone of <b>Engage Bay</b>, It is the world's most affordable all-in-one marketing, sales & service automation platform CRM.<p>
 <ul>
    <li>Collaborative Project</li>
