@@ -24,6 +24,7 @@
 
 <hr></hr>
 <h3>💻 Projects: </h3>
+
 <h4>🔸 <a href="https://tour-advisor12.netlify.app/index.html">TourAdvisor</a></h4>
 <p>Clone of <b>TripAdvisor</b>, the world's largest travel guidance platform<p>
 <ul>
