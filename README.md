@@ -10,7 +10,7 @@
 
 - 📩  Ask me about **HTML, CSS, JavaScript**.
 
-- 📫 How to reach me <a href="mailto:shubhamrasam5820@gmail.com">**shubhamrasam5820@gmail.com**</a>
+- 📫 How to reach me <strong><a href="mailto:shubhamrasam5820@gmail.com">shubhamrasam5820@gmail.com</a></strong>
 
 - 📋Visit My <a href="https://shubhamrasam.github.io/">**Portfolio**<a>
    
