@@ -12,6 +12,10 @@
 
 - 📫 How to reach me **shubhamrasam5820@gmail.com**
 
+- 📋Visit My <a href="https://shubhamrasam.github.io/">**Portfolio**<a>
+   
+- 📑Know More About me <a href="https://drive.google.com/file/d/1rECL7KJFC1-2hGxOBOBvwORNaAp_T0aj/view?usp=sharing">**Resume**<a>
+
 
 <h3 align="left">Connect with me:</h3>
 
