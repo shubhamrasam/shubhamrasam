@@ -27,25 +27,7 @@
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
 
 <hr></hr>
-<h3>💻 Projects: </h3>
 
-<h4>🔸 <a href="https://tour-advisor12.netlify.app/index.html">TourAdvisor</a></h4>
-<p>Clone of <b>TripAdvisor</b>, the world's largest travel guidance platform<p>
-<ul>
-   <li>Individual Project</li>
-   <li>Duration: 4 Days</li>
-   <li>Tech Stack Used: HTML5, CSS, JavaScript</li>
-</ul>
-
-<h4>🔸  <a href="https://stepup-12.netlify.app/">Step Up</a></h4>
-<p>Clone of <b>Engage Bay</b>, It is the world's most affordable all-in-one marketing, sales & service automation platform CRM.<p>
-<ul>
-   <li>Collaborative Project</li>
-   <li>Duration: 4 Days</li>
-   <li>Tech Stack Used: HTML5, CSS, JavaScript.</li>
-   <li>Role: - Dashboard Page, Sales Page.</li>
-</ul>
-<hr></hr>
 
 
 <h3>📊 GitHub Stats:<h3>
