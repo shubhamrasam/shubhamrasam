@@ -4,7 +4,7 @@
 <hr></hr>
 <p align="left"><img src="https://komarev.com/ghpvc/?username=shubhamrasam&label=Profile%20views&color=0e75b6&style=flat" alt="shubhamrasam"/> </p>
 
-<h3>⚡ Welcome to my GitHub profile</h3>
+<h3> Welcome to my GitHub profile</h3>
 
 - 🌱 I’m currently learning **JAVA**
 
@@ -30,7 +30,7 @@
 
 
 
-<h3>📊 GitHub Stats:<h3>
+<h3>GitHub Stats:<h3>
 <img src="https://github-readme-stats.vercel.app/api?username=shubhamrasam&theme=vue&hide_border=false&include_all_commits=true&count_private=true">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=shubhamrasam&theme=vue&hide_border=false">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubhamrasam&theme=vue&hide_border=false&include_all_commits=true&count_private=true&layout=compact">
