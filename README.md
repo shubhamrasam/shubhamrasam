@@ -29,15 +29,22 @@
 <hr></hr>
 
 
-
-<h3>GitHub Stats:<h3>
-<img src="https://github-readme-stats.vercel.app/api?username=shubhamrasam&theme=vue&hide_border=false&include_all_commits=true&count_private=true">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=shubhamrasam&theme=vue&hide_border=false">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubhamrasam&theme=vue&hide_border=false&include_all_commits=true&count_private=true&layout=compact">
+  <div align="center">
+<h3 align="centre">GITHUB STATS<h3>
+   </div>
+    <p align="center">
+<img align="centre" src="https://github-readme-stats.vercel.app/api?username=shubhamrasam&show_icons=true&locale=en&theme=merko&hide_border=false">
+   </p>
+    <p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com?user=shubhamrasam&theme=merko&hide_border=false&date_format=j%20M%5B%20Y%5D">
+   </p>
+    <p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubhamrasam&layout=compact&theme=merko">
+   </p>
 
    <h1></h1>
-   
-   <h3>Thanks for visiting! 😊<h3>
+
+   <h3 align="center">Thanks for visiting! 😊<h3>
    
 
 
