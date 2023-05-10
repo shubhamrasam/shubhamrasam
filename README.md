@@ -1,7 +1,9 @@
 <img src="https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif">
 <h1 align="center">Hi 👋, I'm Shubham Devji Rasam</h1>
 <h3 align="center">Aspiring Full Stack Developer from India</h3>
-<hr></hr>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</p> 
 <p align="left"><img src="https://komarev.com/ghpvc/?username=shubhamrasam&label=Profile%20views&color=0e75b6&style=flat" alt="shubhamrasam"/> </p>
 
 <h3> Welcome to my GitHub profile</h3>
@@ -28,7 +30,9 @@
 ![Springboot](https://img.shields.io/badge/springboot-64b743?style=for-the-badge&logo=springboot&logoColor=white)
 ![Hibernate](https://img.shields.io/badge/hibernate-bcae79?style=for-the-badge&logo=hibernate&logoColor=white)
 ![MySql](https://img.shields.io/badge/MySql-00758f?style=for-the-badge&logo=MySql&logoColor=white)
-<hr></hr>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</p> 
 
 
   <div align="center">
@@ -44,7 +48,9 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubhamrasam&layout=compact&theme=merko">
    </p>
 
-   <h1></h1>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</p> 
 
    <h3 align="center">Thanks for visiting! 😊<h3>
    
