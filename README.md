@@ -8,7 +8,7 @@
 
 <h3> Welcome to my GitHub profile</h3>
 
-- 🌱 I’m currently learning **JAVA**
+- 🌱 I’m currently learning **Java, SpringBoot, Hibernate**
 
 - 📩  Ask me about **HTML, CSS, JavaScript**.
 
